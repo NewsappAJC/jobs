@@ -4,7 +4,7 @@ The Atlanta Journal-Constitution is looking for a News Applications Developer to
 
 The right candidate will have skills as both a journalist and programmer and will be able to design and build creative, meaningful products for the AJC's digital platforms. Candidates should have experience in successfully conceptualizing and building news apps, data visualizations and interactive graphics. Additionally, she or he will help support existing AJC news applications. 
 
-As part of the Data and News Applications team, you will join a group of data specialists, developers and designers working to make the AJC's most important stories come alive in compelling and innovative ways. You'll have room to experiment and freedom to learn new skills as the industry progresses, and opportunities to work on the projects that interest you most. You'll also serve as an advocate of data and visual journalism in the newsroom, encouraging newsroom journalists to experiment with new tools for digital storytelling.
+As part of the Data and News Applications team, you will join a group of data specialists, developers and designers working to make the AJC's most important stories come alive in compelling and innovative ways. You'll have room to experiment, freedom to learn new skills as the industry progresses and opportunities to work on the projects that interest you most. You'll also serve as an advocate of data and visual journalism in the newsroom, encouraging newsroom journalists to experiment with new tools for digital storytelling.
 
 We're looking for applicants with 1-5 years of newsroom experience, but applicants with strong technical skills will also be considered.
 

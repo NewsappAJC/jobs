@@ -19,4 +19,4 @@ Skills:
 
 Want to apply? Send a note detailing your interest, along with your resume and links to relevant work, to Scott Peacocke at speacocke@ajc.com.
 
-Feel free to contact Scott Peacocke (speacocke@ajc.com), John Perry (jgperry@ajc.com) or Ashlyn Still (astill@ajc.com) with any questions.
+Feel free to contact Scott Peacocke (speacocke@ajc.com) with any questions.

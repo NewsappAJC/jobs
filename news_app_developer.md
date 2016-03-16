@@ -29,6 +29,4 @@ Skills:
 - Strong sense of urgency, high energy and tenacity to create content for the AJC's digital platforms
 - Work samples are required
 
-Want to apply? Send a note detailing your interest, along with your resume and links to relevant work, to Scott Peacocke at speacocke@ajc.com.
-
-Feel free to contact Scott Peacocke (speacocke@ajc.com) with any questions.
+You can apply online [here](https://cox.taleo.net/careersection/cox_externalcareers/jobdetail.ftl?job=163653&lang=en&sns_id=mailto#.VulsS5BO_aI.mailto). Feel free to contact Scott Peacocke (speacocke@ajc.com) with any questions.
